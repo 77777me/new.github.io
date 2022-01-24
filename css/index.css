@@ -1,0 +1,94 @@
+
+
+
+.disabled {
+    opacity: 0.5;
+    }
+   
+#text{
+    font-weight: 500;
+    font-size: large;
+}
+
+#header {
+    padding:0;
+    border: 0;
+    border-radius: 0;
+  }
+
+ .space {
+     margin-left: -5px;
+     margin-top: -30px;
+     margin-bottom: 1px;
+  
+ }
+ 
+ .height {
+     padding-top: 8px;
+     padding-bottom: 8px;
+     width: 90%;
+ }
+
+ #width {
+    height: 525px;
+    
+}
+
+ .weight {
+     font-weight: bolder;
+ }
+
+ .align {
+     padding-top: 50px;
+ }
+
+ .lorem {
+     font-weight: bold;
+     font-size: medium;
+ }
+
+ .margin {
+     margin-bottom: 32px;
+ }
+
+ .background {
+     background-color: lightgray;
+ }
+
+ .space1 {
+    padding-top: 32px;
+    padding-bottom: 32px;
+     text-align: center;
+    }
+   
+ .start{
+     font-weight: bolder;
+ }   
+
+ .cardspace {
+     margin-left: 80px;
+     margin-right: 32px;
+     margin-bottom: 32px;
+ }
+
+ .cardspace1{
+     margin-right: 32px;
+     margin-bottom: 32px;
+ }
+
+ .cardspace2{
+  margin-right: 72px;
+  margin-bottom: 32px;
+ }
+
+.bg {
+    background-color: lightgray;
+}
+
+.large{
+    margin-bottom: 32px;
+}
+
+.terms{
+    color: black;
+} 
